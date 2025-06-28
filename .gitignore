@@ -1,0 +1,43 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore Jupyter Notebook metadata
+*.nbconvert.ipynb
+
+# Ignore virtual environments
+env/
+venv/
+ENV/
+.venv/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and outputs
+*.log
+
+# Ignore data files (optional, if you have large datasets)
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.h5
+*.sqlite
+*.db
+*.json
+# Ignore Keras cache directory
+*.keras
+
+# Ignore pickle files
+*.pkl
+*.plk
+
+# Ignore compiled notebooks (optional)
+*.html
+
