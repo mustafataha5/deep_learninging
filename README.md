@@ -67,6 +67,4 @@ Welcome to my Deep Learning portfolio! This repository contains a collection of 
 
     # Install dependencies
     pip install -r requirements.txt
-    ## Install dependencies:
-    pip install -r requirements.txt
 ```
