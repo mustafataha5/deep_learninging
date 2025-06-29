@@ -59,7 +59,8 @@ Welcome to my Deep Learning portfolio! This repository contains a collection of 
 ```bash
    git clone https://github.com/mustafataha5/deep_learninging.git
    cd deep_learninging
- (Optional) Create a virtual environment
+
+   #(Optional) Create a virtual environment
 
     python -m venv venv
     source venv/bin/activate  # On Windows use: venv\Scripts\activate
