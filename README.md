@@ -56,11 +56,16 @@ Welcome to my Deep Learning portfolio! This repository contains a collection of 
 ## 🚀 How to Run
 
 1. Clone the repository:
-   ```bash
+```bash
    git clone https://github.com/mustafataha5/deep_learninging.git
    cd deep_learninging
+ (Optional) Create a virtual environment
 
+    python -m venv venv
+    source venv/bin/activate  # On Windows use: venv\Scripts\activate
 
-## Install dependencies:
-``` bash
-pip install -r requirements.txt
+    # Install dependencies
+    pip install -r requirements.txt
+    ## Install dependencies:
+    pip install -r requirements.txt
+```
