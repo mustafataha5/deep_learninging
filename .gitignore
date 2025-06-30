@@ -23,7 +23,7 @@ Thumbs.db
 *.log
 
 # Ignore data files (optional, if you have large datasets)
-*.csv
+#*.csv
 *.tsv
 *.xls
 *.xlsx
